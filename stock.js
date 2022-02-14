@@ -1,0 +1,22 @@
+let stockProductos = [
+    {id: 1, nombre: "urbano1", estilo: "urbano", precio: 7600, img:'./multimedia/urbano.jpg'},
+    {id: 2, nombre: "urbano2", estilo: "urbano", precio: 9000, img:'./multimedia/urbano1.jpg'},
+    {id: 3, nombre: "urbano3", estilo: "urbano", precio: 6900, img:'./multimedia/urbano2.jpg'},
+    {id: 4, nombre: "urbano4", estilo: "urbano", precio: 8000, img:'./multimedia/urbano3.jpg'},
+    {id: 5, nombre: "urbano5", estilo: "urbano", precio: 11000, img:'./multimedia/urbano4.jpg'},
+    {id: 6, nombre: "trekking1", estilo: "trekking", precio: 15000, img:'./multimedia/trekking.jpg'},
+    {id: 7, nombre: "trekking2", estilo: "trekking", precio: 14000, img:'./multimedia/trekking1.jpg'},
+    {id: 8, nombre: "trekking3", estilo: "trekking", precio: 13000, img:'./multimedia/trekking2.jpg'},
+    {id: 9, nombre: "trekking4", estilo: "trekking", precio: 11000, img:'./multimedia/trekking3.jpg'},
+    {id: 10, nombre: "trekking5", estilo: "trekking", precio: 10500, img:'./multimedia/trekking4.jpg'},
+    {id: 11, nombre: "running1", estilo: "running", precio: 13000, img:'./multimedia/running.jpg'},
+    {id: 12, nombre: "running2", estilo: "running", precio: 11450, img:'./multimedia/running1.jpg'},
+    {id: 13, nombre: "running3", estilo: "running", precio: 9500, img:'./multimedia/running2.jpg'},
+    {id: 14, nombre: "running4", estilo: "running", precio: 12700, img:'./multimedia/running3.jpg'},
+    {id: 15, nombre: "running5", estilo: "running", precio: 8600, img:'./multimedia/running4.jpg'},
+    {id: 16, nombre: "botas1", estilo: "botas", precio: 8700, img:'./multimedia/botas.jpg'},
+    {id: 17, nombre: "botas2", estilo: "botas", precio: 11200, img:'./multimedia/botas1.jpg'},
+    {id: 18, nombre: "botas3", estilo: "botas", precio: 14000, img:'./multimedia/botas2.jpg'},
+    {id: 19, nombre: "botas4", estilo: "botas", precio: 6000, img:'./multimedia/botas3.jpg'},
+    {id: 20, nombre: "botas5", estilo: "botas", precio: 9000, img:'./multimedia/botas4.jpg'}
+];
